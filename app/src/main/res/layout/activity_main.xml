@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:text="@string/btn_Entrar"
         android:id="@+id/button"
-        android:layout_marginTop="193dp"
         android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="73dp" />
 </RelativeLayout>
